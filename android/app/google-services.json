@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "776613832969",
+    "project_id": "formulario-remision",
+    "storage_bucket": "formulario-remision.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:776613832969:android:2d7a91614b645cf3040bd8",
+        "android_client_info": {
+          "package_name": "com.forms"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "776613832969-bn6jghvmd1eumj87fg9h1fc3edr9e0rg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCnadwaFLtStGZIPh8ct0VDh5oNW9pLIaw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "776613832969-bn6jghvmd1eumj87fg9h1fc3edr9e0rg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
